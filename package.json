@@ -1,0 +1,22 @@
+{
+    "name": "aemkei",
+    "displayName": "Aemkei",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "aemkei",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aemkei",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aemkei-color-theme.json"
+            }
+        ]
+    }
+}
